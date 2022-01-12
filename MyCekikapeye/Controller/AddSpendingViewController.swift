@@ -15,8 +15,6 @@ class AddSpendingViewController: UIViewController {
     @IBOutlet weak var amountLabel: UILabel!
     @IBOutlet weak var peoplePickerView: UIPickerView!
     
-//    var persons = [Person()]
-    
     // MARK: - Affichage
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
